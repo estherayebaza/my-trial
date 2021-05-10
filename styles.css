@@ -1,0 +1,129 @@
+body {
+    line-height: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.main-container {
+    font-family: 'opensans-regular', sans-serif;
+    min-height: 490px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    background-repeat: no-repeat;
+    background-color: lightgray;
+}
+
+.mySay {
+    font-style: italic;
+    font-size: 50px;
+}
+
+.state {
+    color: blue;
+}
+
+.navigation-bar ul li a {
+    text-decoration: none;
+}
+
+.nav ul {
+    float: right;
+    margin: 40px;
+}
+
+.nav ul li {
+    display: inline-block;
+    font-family: 'opensans-regular', sans-serif;
+}
+
+.nav ul li a {
+    padding: 8px 25px;
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #7A7A7A;
+    ;
+    text-align: center;
+    font-size: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.container {
+    height: 180px;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    font-size: 30px;
+    color: white;
+}
+
+h5 {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    /*background-color: rgb(0, 0, 0, 0.8);
+    */
+    padding-top: 100px;
+    padding-bottom: 90px;
+    font-size: 20px;
+    color: white;
+}
+
+a {
+    color: #FD4703;
+}
+
+.p3 {
+    float: right;
+}
+
+.p2 {
+    float: right;
+}
+
+.p1 {
+    float: right;
+    width: 400px;
+    height: 100px;
+}
+
+h1 {
+    color: #FD4703;
+}
+
+.blog {
+    background-color: antiquewhite;
+}
+
+#blog {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+.about {
+    background-color: azure;
+    color: darkgreen;
+}
+
+.image-size {
+    height: 500px;
+    width: 400px;
+    display: inline-block;
+    /* padding: 30px; */
+}
+
+.nav ul li a:hover {
+    color: black;
+}
